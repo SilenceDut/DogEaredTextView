@@ -1,1 +1,1 @@
-[**knowweather.apk**](https://github.com/SilenceDut/DogEaredTextView/blob/master/apk/dogeareddemo.apk?raw=true)
+[**dogeareddemo.apk**](https://github.com/SilenceDut/DogEaredTextView/blob/master/apk/dogeareddemo.apk?raw=true)
