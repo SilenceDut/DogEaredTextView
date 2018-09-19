@@ -1,0 +1,10 @@
+{
+    "content":"从网络拿的配置\n可自定义角度\n三角形大小\n颜色，最长行数等等\n自行配置换行\n等等更多",
+    "uiConfig":"true",
+    "backgroundColor":"#FFA54F",
+    "foldColor":"#8470FF",
+    "angle":"30",
+    "triangleBottomLength":"120",
+    "frameStokeWidth":"5",
+    "maxLines":"5",
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DogEaredView">
+
+        <!-- 折角背景色 -->
+        <attr name="de_foldColor" format="color"/>
+
+        <!--view外围线宽-->
+        <attr name="de_stoke_width" format="dimension"/>
+        <!--view外围线颜色,不设置默认与de_foldColor同-->
+        <attr name="de_stokeColor" format="color"/>
+
+        <!--右下角折起的与底线的角度 -->
+        <attr name="de_angle" format="integer"/>
+
+        <!--右下角折起的与底线的角度 -->
+        <attr name="de_triangle_length" format="dimension"/>
+
+    </declare-styleable>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/contentView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/tv_getConfig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点击获取配置"
+        android:background="@color/colorPrimary"
+        android:textColor="#fff"
+        android:padding="10dp"
+        />
+
+
+    <com.silencedut.dogearedtextview.DogEaredView
+        android:id="@+id/sample"
+        android:layout_marginTop="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:textColor="#fff"
+        android:textStyle="italic"
+        android:maxLines="3"
+        android:padding="10dp"
+        android:background="@drawable/ic_launcher_background"
+        app:de_triangle_length="15dp"
+        app:de_foldColor="@color/colorPrimary"
+        app:de_stoke_width="2dp"
+        app:de_angle= "45"
+        />
+
+
+
+</LinearLayout>
